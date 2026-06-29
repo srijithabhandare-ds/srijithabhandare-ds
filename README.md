@@ -1,125 +1,196 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Srijith%20A%20Bhandare&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Full-Stack&descSize=20&descAlignY=60&descColor=a78bfa&animation=fadeIn" />
+# 👋 Hi, I'm Srijith A Bhandare
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%E2%80%94+Data+Science+Student;Building+AI-Powered+Applications;Machine+Learning+%2B+Full-Stack+Dev;Turning+Data+into+Decisions+%F0%9F%A7%A0;Open+to+Collaborations+%26+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1200&color=00C8FF&center=true&vCenter=true&width=900&lines=Data+Science+Student;Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Full+Stack+Developer+in+Progress;Building+AI+Projects+One+Step+at+a+Time" />
 
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=srijithabhandare-ds&label=Profile+Views&color=7c3aed&style=for-the-badge)](https://github.com/srijithabhandare-ds)
+<p>
+<img src="https://komarev.com/ghpvc/?username=srijithabhandare-ds&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/followers/srijithabhandare-ds?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/srijithabhandare-ds?affiliations=OWNER&style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-## `whoami`
+# 🚀 About Me
 
-```python
-class Srijith:
-    name       = "Srijith A Bhandare"
-    degree     = "B.Tech CSE — Data Science"
-    interests  = ["Machine Learning", "Deep Learning", "AI Applications", "Full-Stack Dev"]
-    currently  = ["Scikit-Learn", "TensorFlow", "React / Next.js", "SQL & MongoDB"]
-    goals      = ["Data Scientist", "AI Engineer", "Open Source Contributor"]
-    fun_fact   = "I debug faster with lo-fi music 🎧"
-```
+🎓 **B.Tech Computer Science (Data Science)**
+
+I'm passionate about solving real-world problems using **Artificial Intelligence, Machine Learning, and Data Science.**
+
+I enjoy building intelligent applications that combine software engineering with AI to create impactful solutions.
+
+Currently focusing on
+
+- 🤖 Artificial Intelligence
+- 📊 Data Science
+- 🧠 Machine Learning
+- 🌐 Full Stack Development
+- ☁ Cloud Technologies
 
 ---
 
-## 🛠️ Tech Arsenal
+# 🌱 Currently Learning
 
-<div align="center">
+- Python
+- Data Structures & Algorithms
+- Machine Learning
+- Deep Learning
+- React
+- Next.js
+- SQL
+- Node.js
 
-### Languages
+---
+
+# 🎯 2026 Goals
+
+✅ Build Production AI Projects
+
+✅ Crack Top Hackathons
+
+✅ Contribute to Open Source
+
+✅ Become a Data Scientist
+
+✅ Master Full Stack Development
+
+---
+
+# 🛠 Tech Stack
+
+### Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css"/>
 </p>
 
-### Data Science & AI
+### AI • Data Science
+
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
 </p>
 
 ### Web Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind"/>
 </p>
 
-### Databases & Tools
+### Database
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
-</div>
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman"/>
+</p>
 
 ---
 
-## 📊 GitHub Intelligence
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srijithabhandare-ds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijithabhandare-ds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srijithabhandare-ds&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=srijithabhandare-ds&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srijithabhandare-ds&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srijithabhandare-ds&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
-</div>
-
----
-
-## 🎯 Current Focus
-
-```
-📖  Deepening ML fundamentals — model evaluation, feature engineering, ensembles
-🛠️  Building end-to-end data science projects with real-world datasets
-🌐  Integrating ML models into full-stack web apps (Next.js + FastAPI)
-🤝  Looking for internships, collaborations, and open-source contributions
-```
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Srijith%20A%20Bhandare-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srijith-a-bhandare-497625410)
-[![Gmail](https://img.shields.io/badge/Gmail-srijithabhandare.in%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srijithabhandare.in@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-srijithabhandare--ds-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srijithabhandare-ds)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijithabhandare-ds&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
+# 🔥 GitHub Streak
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srijithabhandare-ds&theme=tokyonight&hide_border=true"/>
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srijithabhandare-ds&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=srijithabhandare-ds&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🏥 Medical Image Classification | CNN-powered disease detection using Deep Learning |
+| 🛰 ISRO Bharatiya Antariksh Hackathon | AI-based Space Technology Solution |
+| 🛡 AI Identity Threat Detection | AI-powered fraud and identity verification system |
+| 📋 Python Task Manager | File Handling based CLI Project |
+| 🌐 Full Stack Web Projects | React + Node.js Applications |
+
+---
+
+# 📚 Currently Working On
+
+🚀 AI Applications
+
+🧠 Deep Learning
+
+🌐 Full Stack Development
+
+🏆 ISRO Hackathon
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/srijith-a-bhandare-497625410">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:srijithabhandare.in@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/srijithabhandare-ds">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Learning never exhausts the mind. Every project is a step toward innovation."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
 
 </div>
