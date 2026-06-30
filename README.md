@@ -133,21 +133,10 @@ Currently focusing on
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=srijithabhandare-ds&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 # 🚀 Featured Projects
 
 | Project | Description |
 |----------|-------------|
-| 🏥 Medical Image Classification | CNN-powered disease detection using Deep Learning |
 | 🛰 ISRO Bharatiya Antariksh Hackathon | AI-based Space Technology Solution |
 | 🛡 AI Identity Threat Detection | AI-powered fraud and identity verification system |
 | 📋 Python Task Manager | File Handling based CLI Project |
