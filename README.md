@@ -32,33 +32,6 @@ Currently focusing on
 
 ---
 
-# 🌱 Currently Learning
-
-- Python
-- Data Structures & Algorithms
-- Machine Learning
-- Deep Learning
-- React
-- Next.js
-- SQL
-- Node.js
-
----
-
-# 🎯 2026 Goals
-
-✅ Build Production AI Projects
-
-✅ Crack Top Hackathons
-
-✅ Contribute to Open Source
-
-✅ Become a Data Scientist
-
-✅ Master Full Stack Development
-
----
-
 # 🛠 Tech Stack
 
 ### Programming Languages
@@ -137,7 +110,6 @@ Currently focusing on
 
 | Project | Description |
 |----------|-------------|
-| 🛰 ISRO Bharatiya Antariksh Hackathon | AI-based Space Technology Solution |
 | 🛡 AI Identity Threat Detection | AI-powered fraud and identity verification system |
 | 📋 Python Task Manager | File Handling based CLI Project |
 | 🌐 Full Stack Web Projects | React + Node.js Applications |
@@ -151,8 +123,6 @@ Currently focusing on
 🧠 Deep Learning
 
 🌐 Full Stack Development
-
-🏆 ISRO Hackathon
 
 ---
 
