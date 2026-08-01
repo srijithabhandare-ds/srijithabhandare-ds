@@ -1,14 +1,21 @@
+
 <div align="center">
 
-# 👋 Hi, I'm Srijith A Bhandare
+# 👋 Hi, I'm **Srijith A Bhandare**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1200&color=00C8FF&center=true&vCenter=true&width=900&lines=Data+Science+Student;Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Full+Stack+Developer+in+Progress;Building+AI+Projects+One+Step+at+a+Time" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Data+Science+Student;Machine+Learning+%26+Deep+Learning+Enthusiast;Building+Real-World+AI+Applications;Python+Developer;Future+AI+Engineer+%F0%9F%9A%80" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=srijithabhandare-ds&style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/followers/srijithabhandare-ds?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/srijithabhandare-ds?affiliations=OWNER&style=for-the-badge"/>
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=srijithabhandare-ds&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://img.shields.io/github/followers/srijithabhandare-ds?style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/stars/srijithabhandare-ds?affiliations=OWNER&style=for-the-badge&color=yellow"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Learning-Everyday-orange?style=for-the-badge"/>
 
 </div>
 
@@ -16,31 +23,40 @@
 
 # 🚀 About Me
 
-🎓 **B.Tech Computer Science (Data Science)**
+🎓 **B.Tech Computer Science & Engineering (Data Science)**
 
-I'm passionate about solving real-world problems using **Artificial Intelligence, Machine Learning, and Data Science.**
+I am a passionate **Data Science student** with a strong interest in **Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Full Stack Development**.
 
-I enjoy building intelligent applications that combine software engineering with AI to create impactful solutions.
+I enjoy solving real-world problems using AI and continuously improving my programming and software engineering skills.
 
-Currently focusing on
+🎯 **Goal:** Become an **AI Engineer** and contribute to impactful AI products and open-source projects.
 
-- 🤖 Artificial Intelligence
-- 📊 Data Science
-- 🧠 Machine Learning
+---
+
+# 🌱 Currently Learning
+
+- 🐍 Python
+- 📚 Data Structures & Algorithms
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 🗣 Natural Language Processing (NLP)
+- 🤖 Agentic AI
 - 🌐 Full Stack Development
-- ☁ Cloud Technologies
+- ☁ Cloud Computing
 
 ---
 
 # 🛠 Tech Stack
 
-### Programming Languages
+## 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css"/>
 </p>
 
-### AI • Data Science
+---
+
+## 🤖 AI & Data Science
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
@@ -48,25 +64,31 @@ Currently focusing on
 
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
 </p>
 
-### Web Development
+---
+
+## 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express"/>
 </p>
 
-### Database
+---
+
+## 🗄 Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
-### Tools
+---
+
+## ⚙ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman"/>
@@ -74,7 +96,7 @@ Currently focusing on
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Statistics
 
 <div align="center">
 
@@ -96,7 +118,7 @@ Currently focusing on
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <div align="center">
 
@@ -106,29 +128,97 @@ Currently focusing on
 
 ---
 
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=srijithabhandare-ds&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</div>
+
+---
+
+# 📊 GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srijithabhandare-ds&theme=tokyonight"/>
+
+</div>
+
+---
+
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🛡 AI Identity Threat Detection | AI-powered fraud and identity verification system |
-| 📋 Python Task Manager | File Handling based CLI Project |
-| 🌐 Full Stack Web Projects | React + Node.js Applications |
+## 🤖 AI Identity Threat Detection
+
+AI-powered fraud detection and identity verification system.
 
 ---
 
-# 📚 Currently Working On
+## 🌿 Dosha Profiling & Holistic Health Recommendation System
 
-🚀 AI Applications
-
-🧠 Deep Learning
-
-🌐 Full Stack Development
+Machine Learning application for personalized health recommendations.
 
 ---
 
-# 🌍 Connect With Me
+## 📊 Student Performance Analysis
+
+Data analysis and visualization project using Python and Pandas.
+
+---
+
+## 🌐 Personal Portfolio Website
+
+Responsive developer portfolio showcasing projects and skills.
+
+---
+
+# 🗺 2026–2027 Learning Roadmap
+
+```text
+✅ Python
+
+🔄 Data Structures & Algorithms
+
+🔄 Machine Learning
+
+⬜ Deep Learning
+
+⬜ Natural Language Processing
+
+⬜ Agentic AI
+
+⬜ MLOps
+
+⬜ AWS Cloud
+
+⬜ Generative AI
+
+⬜ AI Engineer (2027 🚀)
+```
+
+---
+
+# 🤝 Open to Collaborate
+
+I'm interested in collaborating on
+
+- 🤖 Artificial Intelligence
+- 📊 Data Science
+- 🧠 Machine Learning
+- 🌐 Full Stack Development
+- 🚀 Open Source Projects
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
+
+<a href="https://github.com/srijithabhandare-ds">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
 <a href="https://linkedin.com/in/srijith-a-bhandare-497625410">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -138,18 +228,31 @@ Currently focusing on
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/srijithabhandare-ds">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
 </p>
+
+---
+
+# 💡 Fun Fact
+
+> I believe that consistency beats talent when talent doesn't stay consistent.
+
+---
+
+# 📈 Visitor Count
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=srijithabhandare-ds&label=Profile+Views&color=0e75b6&style=flat)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 "Learning never exhausts the mind. Every project is a step toward innovation."
+## ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+### 🚀 Keep Learning • Keep Building • Keep Growing
 
 </div>
+````
